@@ -13,6 +13,7 @@ Repositório destinado aos projetos, exemplos e atividades desenvolvidos na disc
 | | |
 |---|---|
 | **Disciplina** | Programação com Python I |
+| **Curso** | 1° Ano do curso de Inteligência Artificial e Dados, Ensino Médio Técnico |
 | **Professor** | João Antonio Carboni Gomes |
 | **Instituição** | Centro Estadual de Educação Profissional Maria Lydia Cescatto Bomtempo |
 | **Cidade** | Assaí – PR |

@@ -11,7 +11,6 @@ Repositório destinado aos projetos, exemplos e atividades desenvolvidos na disc
 ## 📚 Informações da disciplina
 
 | | |
-|---|---|
 | **Disciplina** | Programação com Python I |
 | **Curso** | 1° Ano do curso de Inteligência Artificial e Dados, Ensino Médio Técnico |
 | **Professor** | João Antonio Carboni Gomes |

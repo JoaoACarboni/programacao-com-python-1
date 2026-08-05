@@ -4,17 +4,17 @@ Repositório destinado aos projetos, exemplos e atividades desenvolvidos na disc
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow)
-![Licença](https://img.shields.io/badge/Uso-Educacional-blue)
+![Uso](https://img.shields.io/badge/Uso-Educacional-blue)
 
 ---
 
 ## 📚 Informações da disciplina
 
 - **Disciplina:** Programação com Python I
-- **Curso:** 1° Ano do curso de Inteligência Artificial e Dados – Ensino Médio Técnico
+- **Curso:** 1º Ano do Curso Técnico em Inteligência Artificial e Dados Integrado ao Ensino Médio
 - **Professor:** João Antonio Carboni Gomes
 - **Instituição:** Centro Estadual de Educação Profissional Maria Lydia Cescatto Bomtempo
-- **Cidade:** Assaí – PR
+- **Cidade:** Assaí – Paraná
 
 ---
 
@@ -28,50 +28,65 @@ Os exemplos acompanham a evolução da disciplina e servem como material de apoi
 
 ## 📂 Organização do repositório
 
-O repositório é organizado em **pastas numeradas**, cada uma correspondente a um conteúdo, aula ou projeto desenvolvido durante a disciplina.
+O repositório está organizado em **pastas numeradas**, cada uma correspondente a um conteúdo, aula ou projeto desenvolvido durante a disciplina.
 
-Novos exemplos e exercícios são adicionados continuamente ao longo do curso, mantendo o histórico da evolução dos conteúdos.
+Novos exemplos e exercícios são adicionados continuamente ao longo do curso, preservando o histórico da evolução dos conteúdos.
 
 ---
 
 ## 📖 Conteúdos abordados
 
-Os exemplos disponíveis contemplam, entre outros temas:
+Entre os conteúdos presentes neste repositório estão:
 
 - Variáveis
 - Entrada e saída de dados
-- Validação de dados
 - Operadores
 - Estruturas condicionais
 - Estruturas de repetição
+- Validação de dados
 - Métodos de strings
-- Operações com listas
+- Listas
+- Tuplas
+- Dicionários
 - Funções
 - Manipulação de arquivos
-- E demais conteúdos trabalhados durante a disciplina.
+- Tratamento de exceções
+- E demais conteúdos desenvolvidos ao longo da disciplina.
 
 ---
 
 ## ▶️ Como executar os códigos
 
-1. Certifique-se de ter o Python 3 instalado.
+1. Certifique-se de possuir o **Python 3** instalado em seu computador.
 2. Clone este repositório:
 
 ```bash
 git clone https://github.com/JoaoACarboni/programacao-com-python-1.git
 ```
 
-3. Acesse a pasta desejada:
+3. Acesse a pasta do projeto:
 
 ```bash
-cd "Programação com Python I"
+cd programacao-com-python-1
 ```
 
-4. Execute o arquivo Python correspondente:
+4. Navegue até a pasta desejada e execute o arquivo correspondente:
 
 ```bash
 python main.py
 ```
+
+---
+
+## ⚖️ Aviso sobre o conteúdo
+
+Este repositório contém exclusivamente códigos-fonte desenvolvidos para fins didáticos durante a disciplina de **Programação com Python I**.
+
+Os conteúdos abordados seguem a organização e o planejamento curricular disponibilizados pela **Secretaria de Estado da Educação do Paraná (SEED-PR)**. Entretanto, este repositório **não reproduz** slides, apostilas, apresentações, PDFs, imagens ou quaisquer outros materiais oficiais da SEED-PR.
+
+Os exemplos de código foram desenvolvidos pelo professor para utilização em sala de aula e, em alguns casos, implementam exercícios ou propostas presentes no planejamento da disciplina. Quando necessário, esses exemplos foram adaptados, modificados ou ampliados para melhor atender aos objetivos pedagógicos da turma.
+
+Este material possui finalidade exclusivamente educacional e não substitui nem redistribui os materiais oficiais produzidos pela Secretaria de Estado da Educação do Paraná.
 
 ---
 
@@ -83,4 +98,8 @@ Este repositório é atualizado periodicamente conforme novos conteúdos são ap
 
 ## 📝 Licença
 
-Este repositório possui finalidade exclusivamente educacional e foi desenvolvido para apoiar as aulas da disciplina de **Programação com Python I**.
+Copyright © 2026 João Antonio Carboni Gomes.
+
+Este repositório é disponibilizado exclusivamente para fins educacionais.
+
+Os códigos podem ser consultados, executados e utilizados como material de estudo, desde que seja mantida a referência ao autor quando apropriado. Os materiais oficiais da Secretaria de Estado da Educação do Paraná (SEED-PR) **não fazem parte deste repositório** e permanecem sujeitos às respectivas políticas de uso e direitos autorais.

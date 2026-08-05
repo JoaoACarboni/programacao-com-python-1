@@ -40,6 +40,7 @@ Os exemplos disponíveis contemplam, entre outros temas:
 
 - Variáveis
 - Entrada e saída de dados
+- Validação de dados
 - Operadores
 - Estruturas condicionais
 - Estruturas de repetição

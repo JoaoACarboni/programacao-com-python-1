@@ -10,89 +10,76 @@ Repositório destinado aos projetos, exemplos e atividades desenvolvidos na disc
 
 ## 📚 Informações da disciplina
 
-| | |
-|---|---|
-| **Disciplina** | Programação com Python I |
-| **Curso** | 1° Ano do curso de Inteligência Artificial e Dados, Ensino Médio Técnico |
-| **Professor** | João Antonio Carboni Gomes |
-| **Instituição** | Centro Estadual de Educação Profissional Maria Lydia Cescatto Bomtempo |
-| **Cidade** | Assaí – PR |
+- **Disciplina:** Programação com Python I
+- **Curso:** 1° Ano do curso de Inteligência Artificial e Dados – Ensino Médio Técnico
+- **Professor:** João Antonio Carboni Gomes
+- **Instituição:** Centro Estadual de Educação Profissional Maria Lydia Cescatto Bomtempo
+- **Cidade:** Assaí – PR
 
 ---
 
 ## 🎯 Objetivo
 
-Este repositório reúne os códigos utilizados durante as aulas para auxiliar no aprendizado dos conceitos iniciais da linguagem Python.
+Este repositório reúne os códigos utilizados durante as aulas para auxiliar no aprendizado dos conceitos fundamentais da linguagem Python.
 
-Os exemplos foram organizados por temas, acompanhando a evolução dos conteúdos trabalhados em sala, servindo tanto como material de estudo quanto como registro da evolução da disciplina.
+Os exemplos acompanham a evolução da disciplina e servem como material de apoio para estudos, consultas e revisões.
 
 ---
 
-## 📂 Estrutura do repositório
+## 📂 Organização do repositório
 
-Cada pasta representa um conteúdo ou aula da disciplina:
+O repositório é organizado em **pastas numeradas**, cada uma correspondente a um conteúdo, aula ou projeto desenvolvido durante a disciplina.
 
-```
-Programação com Python I/
-├── (1) Soma de Dois Números/
-├── (2) Dissecando Variável/
-├── (3) Operadores Relacionais/
-├── (4) Condicional/
-├── (5) Condicional Encadeada/
-├── (6) Estrutura de Repetição For/
-├── (7) While/
-├── (8) While com If/
-├── (9) Opções/
-├── (10) Métodos Upper e Lower/
-├── (11) Strip/
-└── (12) Operador In/
-```
+Novos exemplos e exercícios são adicionados continuamente ao longo do curso, mantendo o histórico da evolução dos conteúdos.
 
 ---
 
 ## 📖 Conteúdos abordados
 
-Até o momento, o repositório possui exemplos relacionados a:
+Os exemplos disponíveis contemplam, entre outros temas:
 
-- ➕ Soma de dois números
-- 🔤 Declaração e uso de variáveis
-- ⚖️ Operadores relacionais
-- 🔀 Estruturas condicionais
-- 🔗 Condicionais encadeadas
-- 🔁 Estrutura de repetição `for`
-- 🔁 Estrutura de repetição `while`
-- 🔁 Uso de `while` com `if`
-- 📋 Menu de opções
-- 🔠 Métodos de strings: `upper()` e `lower()`
-- ✂️ Método `strip()`
-- 🔍 Operador `in`
+- Variáveis
+- Entrada e saída de dados
+- Operadores
+- Estruturas condicionais
+- Estruturas de repetição
+- Métodos de strings
+- Operações com listas
+- Funções
+- Manipulação de arquivos
+- E demais conteúdos trabalhados durante a disciplina.
 
 ---
 
 ## ▶️ Como executar os códigos
 
-1. Certifique-se de ter o [Python 3](https://www.python.org/downloads/) instalado na sua máquina.
+1. Certifique-se de ter o Python 3 instalado.
 2. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/programacao-com-python-i.git
-   ```
-3. Acesse a pasta do conteúdo desejado:
-   ```bash
-   cd "Programação com Python I/(1) Soma de Dois Números"
-   ```
+
+```bash
+git clone https://github.com/JoaoACarboni/programacao-com-python-1.git
+```
+
+3. Acesse a pasta desejada:
+
+```bash
+cd "Programação com Python I"
+```
+
 4. Execute o arquivo Python correspondente:
-   ```bash
-   python nome_do_arquivo.py
-   ```
+
+```bash
+python main.py
+```
 
 ---
 
-## 🚧 Status do repositório
+## 🚧 Atualizações
 
-Este repositório está em **construção contínua**, sendo atualizado conforme novos conteúdos são apresentados em sala de aula.
+Este repositório é atualizado periodicamente conforme novos conteúdos são apresentados em sala de aula.
 
 ---
 
 ## 📝 Licença
 
-Este repositório tem fins **exclusivamente educacionais**, desenvolvido no contexto da disciplina de Programação com Python I.
+Este repositório possui finalidade exclusivamente educacional e foi desenvolvido para apoiar as aulas da disciplina de **Programação com Python I**.

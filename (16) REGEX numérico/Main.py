@@ -1,7 +1,0 @@
-import re
-codigo = "9999"
-if re.fullmatch(r"\d{4}", codigo):
-    print("Código aceito!")
-else:
-    print("Código inválido!")
-

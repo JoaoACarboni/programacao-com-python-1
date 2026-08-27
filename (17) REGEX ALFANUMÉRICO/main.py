@@ -1,7 +1,8 @@
 import re
-codigo = "9999"
-if re.fullmatch(r"[a-z0-9]{5}", codigo):
-    print("Código aceito!")
-else:
-    print("Código inválido!")
 
+codigo = input("Digite o código: ")
+
+while not re.fullmatch(r"[a-z0-9]{5}", codigo):
+    codigo = input("Digite o código novamente: ")
+
+print("Código aceito!")

@@ -2,4 +2,4 @@ turma = [["Enzo", "Pietro", "Ana"],
          ["Fernando", "Samuel", "Carlos"], 
          ["Felipe", "Pedrão", "Tiago"]]
 
-print(turma[2][2])
+print(turma[2][2]) # Selecionando índice

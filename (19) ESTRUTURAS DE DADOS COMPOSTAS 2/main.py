@@ -1,22 +1,16 @@
-# Estruturas de Dados Compostas 2 
-# LISTA de LISTAS
-
 jogos = [
-    ["CS2", "ROBLOX", "RDR2"], # Jogos de PC
-    ["AstroBot", "God of War", "The Last of Us"], # Jogos de PS4
-    ["Halo", "Forza Horizon", "Gears of War"] # Jogos de XBOX
+    ["CS2", "LOL", "COD"], # JOGOS DE PC
+    ["RAYMAN", "GOD OF WAR", "TLOU"], # JOGOS DE PLAYSTATION
+    ["HALO", "FORZA", "GEARS OF WAR"] # JOGOS DE XBOX
 ]
-print(len(jogos)) # Quantidade de listas dentro da lista
-
-print("Jogos por plataforma:\n")
-print("Jogos de PC: ")
+print("JOGOS DE PC")
 for jogo in jogos[0]:
-    print(jogo)
+    print("-", jogo)
 
-print("\nJogos de PS4: ")
+print("\nJOGOS DE PLAYSTATION")
 for jogo in jogos[1]:
-    print(jogo)
+    print("-", jogo)
 
-print("\nJogos de XBOX: ")
+print("\nJOGOS DE XBOX")
 for jogo in jogos[2]:
-    print(jogo)
+    print("-", jogo)

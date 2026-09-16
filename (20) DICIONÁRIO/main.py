@@ -1,12 +1,11 @@
-# Lista de dicionário ou dict
-
 personagens = [
-    {"nome": "Bob Esponja", "idade": 23},
-    {"nome": "Thanos", "idade": 1000}
+    {"nome": "Bob Esponja", "idade": 40, "categoria": "desenho"},
+    {"nome": "Moranguinho", "idade": 6, "categoria": "desenho"},
+    {"nome": "Harry Potter", "idade": 15, "categoria": "ficção"},
 ]
-# print(personagens[0]["nome"])
-# print(personagens[1]["nome"]) 
-for persongagem in personagens:
-    print("Nome:", persongagem["nome"])
-    print("Idade:", persongagem["idade"])
-    print("--------------------")
+
+for personagem in personagens:
+    print("Nome: ", personagem["nome"] )
+    print("Idade: ", personagem["idade"] )
+    print("Categoria: ", personagem["categoria"] )
+    print()

@@ -7,7 +7,7 @@ print("JOGOS DE PC")
 for jogo in jogos[0]:
     print("-", jogo)
 
-print("\nJOGOS DE PLAYSTATION")
+print("\nJOGOS DE PLAYSTATION") 
 for jogo in jogos[1]:
     print("-", jogo)
 

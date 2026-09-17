@@ -1,8 +1,11 @@
-# def apresentar(nome, idade):
-#     print("Olá", nome, "Sua idade é", idade)
+def somar(n1, n2):
+    print(f"A soma de {n1} e {n2} é igual a {n1 + n2}")
+    return n1 + n2 # Retorna um valor pra função
+print(somar(7, 7))
 
-def media(n1, n2, n3):
-    media_aritimetica = n1 + n2 + n3 / 3
-    return media_aritimetica
-
-print(media(10, 7, 8))
+def calcular_media(nota1, nota2, nota3):
+    media = (nota1 + nota2 + nota3) / 3
+    return media
+print(calcular_media(7, 8, 9))
+print(calcular_media(10, 9, 9))
+print(calcular_media(4, 7, 3))

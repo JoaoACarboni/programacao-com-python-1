@@ -1,13 +1,14 @@
-print()
-int()
-# Funções são blocos de código que podem ser reutilizados várias vezes. Elas podem receber parâmetros e retornar valores. Em Python, as funções são definidas usando a palavra-chave `def`.
-def calcular_media():
-    print("Calculando a média...")
-# Nome - parâmetro
-def saudacao(nome):
-    print(f"Bem vindo! {nome}")
+int() # É uma função
+print() # É uma função
 
-calcular_media()
-saudacao("Cristhian") # Cristhian - argumento
-saudacao("Jonatan")
-saudacao("Fefe")
+# Criando uma função própria
+def saudacao(nome, idade):
+    print("Olá, seja bem-vindo(a)", nome)
+    print("Você tem", idade, "anos!")
+
+saudacao("João", 18) # Chamando a função 
+saudacao("Mirella", 15)
+saudacao("Veroneze", 25)
+saudacao("Ana Julia", 30)
+
+

@@ -6,9 +6,9 @@ def saudacao(nome, idade):
     print("Olá, seja bem-vindo(a)", nome)
     print("Você tem", idade, "anos!")
 
-saudacao("João", 18) # Chamando a função 
+saudacao("Fulano", 14) # Chamando a função 
 saudacao("Mirella", 15)
-saudacao("Veroneze", 25)
-saudacao("Ana Julia", 30)
+saudacao("Veroneze", 15)
+saudacao("Ana Julia", 15)
 
 

@@ -24,4 +24,5 @@ else: # Só é executado quando o except é ignorado
     print("Número correto!")
 finally: # É executado sempre, independente do valor digitado
     print("Programa finalizado!!!")
+    qweqweqweqwe
 

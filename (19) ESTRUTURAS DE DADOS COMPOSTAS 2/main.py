@@ -14,3 +14,4 @@ for jogo in jogos[1]:
 print("\nJOGOS DE XBOX")
 for jogo in jogos[2]:
     print("-", jogo)
+
